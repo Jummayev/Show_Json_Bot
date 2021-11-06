@@ -1,5 +1,5 @@
 <?
-    define('API_KEY','1649999868:AAGW7aHn8unjkJtc9FUiuUW0l_Ku5uG-c1w');
+    define('API_KEY','your bot token');
     
     function ty($ch){ 
         return bot('sendChatAction', [
